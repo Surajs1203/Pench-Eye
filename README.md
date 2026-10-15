@@ -7,6 +7,28 @@
 > approximations. Nothing here is a validated tiger-identification model or
 > surveyed GIS data, and the UI labels simulated content everywhere it appears.
 
+> [!WARNING]
+> **Do not use demo outputs for conservation or operational decisions.** The repository does not include trained tiger re-identification weights, and its default geographic boundaries are not official surveyed data.
+
+## Contents
+
+- [What is Pench Eye?](#what-is-pench-eye)
+- [Architecture](#architecture)
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Project structure](#project-structure)
+- [Setup](#setup)
+- [Environment variables](#environment-variables)
+- [Demo mode](#demo-mode)
+- [ML pipeline](#ml-pipeline)
+- [Training a real tiger Re-ID model](#training-a-real-tiger-re-id-model)
+- [Map and GIS](#map-and-gis)
+- [API overview](#api-overview)
+- [Suggested demo flow](#suggested-demo-flow)
+- [Testing](#testing)
+- [Security notes](#security-notes)
+- [Future improvements](#future-improvements)
+
 ---
 
 ## What is Pench Eye?
