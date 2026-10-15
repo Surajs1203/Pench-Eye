@@ -1,4 +1,4 @@
-# Pench Eye
+# 🐅 Pench Eye
 ## Wildlife Intelligence Platform for Pench Tiger Reserve
 ### Camera-trap triage · individual tiger identification · geospatial monitoring · alerting · analytics
 
@@ -438,8 +438,3 @@ network.
 - Home-range estimation and occupancy modelling on top of the sighting data
 - Push notifications (SMS/WhatsApp) for critical alerts to field teams
 - Frontend code splitting to bring the bundle below the 500 kB warning threshold
-#   P e n c h - E y e  
- #   P e n c h - E y e  
- #   B l o c k C h - A I  
- #   P e n c h - E y e  
- 
